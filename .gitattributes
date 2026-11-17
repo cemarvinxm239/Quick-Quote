@@ -1,0 +1,5 @@
+QUICK-QUOTE.md -text
+quick-quote.html -text
+SHA256SUMS.txt -text
+*.zip binary
+*.png binary
